@@ -1,0 +1,10 @@
+torch
+fastapi
+uvicorn
+torchvision
+torchaudio
+streamlit
+pillow
+opencv-python
+pycocotools
+opencv-python-headless
